@@ -1,4 +1,4 @@
-#Anotações!
+# Anotações!
 
-##Link para downloads
+## Link para downloads
 Download Git https://git-scm.com/downloads
